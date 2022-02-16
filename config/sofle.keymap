@@ -89,8 +89,8 @@
             bindings = <
 &trans            &trans       &trans       &trans       &trans       &trans                   &trans    &trans    &trans   &trans    &trans  &trans
 &trans            &trans       &trans       &trans       &trans       &trans                   &trans    &trans    &trans   &trans    &trans  &trans
-&rgb_ug RGB_TOG   &rgb_ug RGB_HUI   &rgb_ug RGB_SAI   &rgb_ug RGB_BRI   &rgb_ug RGB_SPI       &trans                 &trans    &kp K_VOLUME_DOWN   &kp K_MUTE   &kp K_VOLUME_UP  &trans  &trans
-&rgb_ug RGB_EFF   &rgb_ug RGB_HUD   &rgb_ug RGB_SAD   &rgb_ug RGB_BRD   &rgb_ug RGB_SPD       &trans  &trans   &trans  &trans    &kp K_PREVIOUS   &kp K_PLAY_PAUSE  &kp K_NEXT   &trans  &trans
+&rgb_ug RGB_TOG   &rgb_ug RGB_HUI   &rgb_ug RGB_SAI   &rgb_ug RGB_BRI   &rgb_ug RGB_SPI       &trans                 &trans    &kp C_VOLUME_DOWN   &kp K_MUTE   &kp C_VOLUME_UP  &trans  &trans
+&rgb_ug RGB_EFF   &rgb_ug RGB_HUD   &rgb_ug RGB_SAD   &rgb_ug RGB_BRD   &rgb_ug RGB_SPD       &trans  &trans   &trans  &trans    &kp C_PREVIOUS   &kp C_PLAY_PAUSE  &kp C_NEXT   &trans  &trans
                         &trans       &trans       &trans       &trans  &trans   &trans  &trans    &trans    &trans   &trans
             >;
 
